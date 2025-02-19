@@ -74,7 +74,7 @@
 &none   &none          &kp C_PREV     &kp C_PLAY_PAUSE  &kp C_NEXT  &none  &none                                        &none  &none     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE   &kp RIGHT_BRACE   &none
 &trans  &none          &none          &none             &none       &none  &none  &none  &none      &none  &none        &none  &none     &kp MINUS         &kp EQUAL          &kp LESS_THAN    &kp GREATER_THAN  &none
 &trans  &none          &none          &none             &none       &none                &none      &none                      &kp LEFT  &kp DOWN          &kp UP_ARROW       &kp RIGHT_ARROW  &none             &none
-&none   &none          &none          &none             &none              &none  &none  &none      &none  &kp LA(RET)  &none            &trans            &trans             &none            &none             &none
+&none   &none          &none          &trans            &trans             &none  &none  &none      &none  &kp LA(RET)  &none            &trans            &trans             &none            &none             &none
             >;
         };
 
